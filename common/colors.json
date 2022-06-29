@@ -3,6 +3,10 @@
     "white": {
       "value": "#ffffff",
       "type": "color"
+    },
+    "black": {
+      "value": "#000000",
+      "type": "color"
     }
   },
   "light": {
