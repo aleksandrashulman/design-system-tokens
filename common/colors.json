@@ -13,23 +13,23 @@
     "light": {
       "layer": {
         "floor-0-default": {
-          "value": "#ffffff",
+          "value": "{white}",
           "type": "color"
         },
         "floor-1": {
-          "value": "#ffffff",
+          "value": "{white}",
           "type": "color"
         },
         "floor-2": {
-          "value": "#ffffff",
+          "value": "{white}",
           "type": "color"
         },
         "floor-3": {
-          "value": "#ffffff",
+          "value": "{white}",
           "type": "color"
         },
         "surface-inner-shadow": {
-          "value": "#ffffff",
+          "value": "{white}",
           "type": "color"
         }
       }
