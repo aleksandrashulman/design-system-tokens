@@ -38,5 +38,36 @@
     }
   },
   "dark-section": {},
-  "$themes": []
+  "$themes": [
+    {
+      "id": "1ed30afe0d452f54497f163b1bfff87448e1a8c9",
+      "name": "F",
+      "selectedTokenSets": {
+        "core-section": "enabled",
+        "light-section": "enabled",
+        "dark-section": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "687d9ba97158518c8d42acce3c8c1b99726438c3",
+      "name": "D",
+      "selectedTokenSets": {
+        "core-section": "enabled",
+        "light-section": "disabled",
+        "dark-section": "disabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "9a412124287be213ef29d20cb57563f0d37c6d22",
+      "name": "K",
+      "selectedTokenSets": {
+        "core-section": "enabled",
+        "light-section": "disabled",
+        "dark-section": "disabled"
+      },
+      "$figmaStyleReferences": {}
+    }
+  ]
 }
