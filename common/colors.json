@@ -7,6 +7,26 @@
     "black": {
       "value": "#000000",
       "type": "color"
+    },
+    "light": {
+      "layer": {
+        "floor-0-default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "floor-0-grouped": {
+          "value": "#e9ebee",
+          "type": "color"
+        },
+        "floor-1": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "floor-2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
     }
   },
   "light": {
