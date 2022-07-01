@@ -1,5 +1,5 @@
 {
-  "global": {
+  "core": {
     "white": {
       "value": "#ffffff",
       "type": "color"
@@ -7,26 +7,6 @@
     "black": {
       "value": "#000000",
       "type": "color"
-    },
-    "light": {
-      "layer": {
-        "floor-0-default": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "floor-0-grouped": {
-          "value": "#e9ebee",
-          "type": "color"
-        },
-        "floor-1": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "floor-2": {
-          "value": "#ffffff",
-          "type": "color"
-        }
-      }
     }
   },
   "light": {
@@ -34,10 +14,6 @@
       "layer": {
         "floor-0-default": {
           "value": "#ffffff",
-          "type": "color"
-        },
-        "floor-0-grouped": {
-          "value": "#e9ebee",
           "type": "color"
         },
         "floor-1": {
@@ -52,90 +28,8 @@
           "value": "#ffffff",
           "type": "color"
         },
-        "floor-4": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "surface": {
-          "value": "#737d8c14",
-          "type": "color"
-        },
         "surface-inner-shadow": {
           "value": "#ffffff",
-          "type": "color"
-        }
-      },
-      "bg": {
-        "action-primary": {
-          "value": "#32bb78",
-          "type": "color"
-        },
-        "action-secondary": {
-          "value": "#33ff9b29",
-          "type": "color"
-        },
-        "danger-primary": {
-          "value": "#eb4755",
-          "type": "color"
-        },
-        "danger-secondary": {
-          "value": "#eb47551f",
-          "type": "color"
-        },
-        "neutral-primary": {
-          "value": "#2f313f",
-          "type": "color"
-        },
-        "neutral-secondary": {
-          "value": "#737d8c14",
-          "type": "color"
-        }
-      },
-      "bg-active": {
-        "action-primary": {
-          "value": "#1d965c",
-          "type": "color"
-        },
-        "action-secondary": {
-          "value": "#33ff9b3d",
-          "type": "color"
-        },
-        "danger-primary": {
-          "value": "#c91d2b",
-          "type": "color"
-        },
-        "danger-secondary": {
-          "value": "#eb475533",
-          "type": "color"
-        },
-        "neutral-primary": {
-          "value": "#585f68",
-          "type": "color"
-        },
-        "neutral-secondary": {
-          "value": "#737d8c29",
-          "type": "color"
-        }
-      },
-      "text": {
-        "primary": {
-          "value": "#2f313f",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "#262f3ba3",
-          "type": "color"
-        },
-        "tertiary": {
-          "value": "#4d5c6f7a",
-          "type": "color"
-        },
-        "action": {
-          "value": "#1d965c",
-          "type": "color"
-        },
-        "danger": {
-          "value": "#c91d2b",
           "type": "color"
         }
       }
