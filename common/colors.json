@@ -1,8 +1,10 @@
 {
   "core": {
-    "white": {
-      "value": "#ffffff",
-      "type": "color"
+    "core": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      }
     },
     "black": {
       "value": "#000000",
@@ -13,23 +15,23 @@
     "light": {
       "layer": {
         "floor-0-default": {
-          "value": "{white}",
+          "value": "{core.white}",
           "type": "color"
         },
         "floor-1": {
-          "value": "{white}",
+          "value": "{core.white}",
           "type": "color"
         },
         "floor-2": {
-          "value": "{white}",
+          "value": "{core.white}",
           "type": "color"
         },
         "floor-3": {
-          "value": "{white}",
+          "value": "{core.white}",
           "type": "color"
         },
         "surface-inner-shadow": {
-          "value": "{white}",
+          "value": "{core.white}",
           "type": "color"
         }
       }
