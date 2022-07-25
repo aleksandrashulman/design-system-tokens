@@ -11,7 +11,7 @@
       },
       "neutral": {
         "1000": {
-          "value": "#2F313F",
+          "value": "rgba(47, 49, 63, 1)",
           "type": "color"
         }
       },
