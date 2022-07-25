@@ -2,11 +2,11 @@
   "core-section": {
     "core": {
       "white": {
-        "value": "#ffffff",
+        "value": "rgba(255, 255, 255, 1.0)",
         "type": "color"
       },
       "black": {
-        "value": "#000000",
+        "value": "rgba(0, 0, 0, 1.0)",
         "type": "color"
       },
       "neutral": {
@@ -17,11 +17,11 @@
       },
       "neutral-transparent-utility": {
         "utility-1": {
-          "value": "#121D2B",
+          "value": "rgba(18, 29, 43, 1.0)",
           "type": "color"
         },
         "utility-2": {
-          "value": "#061A37",
+          "value": "rgba(6, 26, 55, 1)",
           "type": "color"
         }
       }
