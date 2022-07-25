@@ -160,6 +160,16 @@
           "value": "{core.neutral-transparent.200}",
           "type": "color"
         }
+      },
+      "stroke": {
+        "neutral-primary": {
+          "value": "{core.neutral.600}",
+          "type": "color"
+        },
+        "neutral-secondary": {
+          "value": "{core.neutral-transparent.400}",
+          "type": "color"
+        }
       }
     }
   },
