@@ -8,6 +8,22 @@
       "black": {
         "value": "#000000",
         "type": "color"
+      },
+      "neutral": {
+        "1000": {
+          "value": "#2F313F",
+          "type": "color"
+        }
+      },
+      "neutral-transparent-utility": {
+        "utility-1": {
+          "value": "#121D2B",
+          "type": "color"
+        },
+        "utility-2": {
+          "value": "#061A37",
+          "type": "color"
+        }
       }
     }
   },
