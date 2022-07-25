@@ -119,6 +119,14 @@
         "surface-inner-shadow": {
           "value": "{core.white}",
           "type": "color"
+        },
+        "floor-0-grouped": {
+          "value": "{core.neutral.200}",
+          "type": "color"
+        },
+        "surface": {
+          "value": "{core.neutral-transparent.100}",
+          "type": "color"
         }
       }
     }
