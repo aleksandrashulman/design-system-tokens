@@ -106,6 +106,46 @@
           "value": "rgba({core.neutral-transparent-utility.utility-1}, 0.8)",
           "type": "color"
         }
+      },
+      "green": {
+        "100": {
+          "value": "rgba(224, 255, 240, 1.0)",
+          "type": "color"
+        },
+        "200": {
+          "value": "rgba(161, 247, 205, 1.0)",
+          "type": "color"
+        },
+        "300": {
+          "value": "rgba(50, 187, 120, 1.0)",
+          "type": "color"
+        },
+        "500": {
+          "value": "rgba(50, 187, 120, 1.0)",
+          "type": "color"
+        },
+        "700": {
+          "value": " rgba(27, 142, 87, 1.0)",
+          "type": "color"
+        },
+        "900": {
+          "value": " rgba(18, 112, 66, 1.0)",
+          "type": "color"
+        }
+      },
+      "green-transparent": {
+        "100": {
+          "value": " rgba(0, 255, 130, 0.12)",
+          "type": "color"
+        },
+        "200": {
+          "value": "rgba(2, 232, 120, 0.36)",
+          "type": "color"
+        },
+        "300": {
+          "value": " rgba(6, 208, 109, 0.64)",
+          "type": "color"
+        }
       }
     }
   },
