@@ -22,6 +22,10 @@
           "value": "rgba(235, 237, 239, 1.0)",
           "type": "color"
         },
+        "300": {
+          "value": "rgba(225, 227, 231, 1.0)",
+          "type": "color"
+        },
         "400": {
           "value": "rgba(215, 218, 223, 1.0)",
           "type": "color"
@@ -34,8 +38,16 @@
           "value": "rgba(165, 173, 183, 1.0)",
           "type": "color"
         },
+        "700": {
+          "value": "rgba(138, 146, 156, 1.0)",
+          "type": "color"
+        },
         "800": {
           "value": "rgba(104, 110, 119, 1.0)",
+          "type": "color"
+        },
+        "900": {
+          "value": "rgba(65, 74, 85, 1.0)",
           "type": "color"
         },
         "1000": {
