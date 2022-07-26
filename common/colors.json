@@ -169,6 +169,10 @@
         "neutral-secondary": {
           "value": "{core.neutral-transparent.400}",
           "type": "color"
+        },
+        "separator": {
+          "value": "{core.neutral-transparent.200}",
+          "type": "color"
         }
       }
     }
