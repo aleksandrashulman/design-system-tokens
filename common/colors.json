@@ -418,6 +418,10 @@
           "disabled": {
             "value": "{core.neutral-transparent.200}",
             "type": "color"
+          },
+          "zebra": {
+            "value": "{core.neutral-transparent.50}",
+            "type": "color"
           }
         }
       },
