@@ -341,6 +341,14 @@
         "positive-secondary": {
           "value": "{core.green.500}",
           "type": "color"
+        },
+        "warning-primary": {
+          "value": "{core.yellow.700}",
+          "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow.500}",
+          "type": "color"
         }
       },
       "bg": {
