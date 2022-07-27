@@ -427,11 +427,11 @@
       },
       "stroke": {
         "neutral-primary": {
-          "value": "{core.neutral.600}",
+          "value": "{core.neutral-transparent.600}",
           "type": "color"
         },
         "neutral-secondary": {
-          "value": "{core.neutral.400}",
+          "value": "{core.neutral-transparent.400}",
           "type": "color"
         },
         "separator": {
@@ -460,6 +460,24 @@
         },
         "positive-secondary": {
           "value": "{core.green.300}",
+          "type": "color"
+        }
+      },
+      "bg-active": {
+        "action-primary": {
+          "value": "{core.green.700}",
+          "type": "color"
+        },
+        "danger-primary": {
+          "value": "{core.red.700}",
+          "type": "color"
+        },
+        "neutral-primary": {
+          "value": "{core.neutral.800}",
+          "type": "color"
+        },
+        "neutral-secondary-hard": {
+          "value": "{core.neutral-transparent.500}",
           "type": "color"
         }
       }
