@@ -479,6 +479,10 @@
         "neutral-secondary-hard": {
           "value": "{core.neutral-transparent.500}",
           "type": "color"
+        },
+        "neutral-secondary": {
+          "value": "{core.neutral-transparent.200}",
+          "type": "color"
         }
       }
     }
