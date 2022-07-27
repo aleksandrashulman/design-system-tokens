@@ -380,6 +380,22 @@
           "value": "{core.green-transparent.100}",
           "type": "color"
         },
+        "warning-primary": {
+          "value": "{core.yellow.700}",
+          "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow-transparent.100}",
+          "type": "color"
+        },
+        "promo-primary": {
+          "value": "{core.purple.500}",
+          "type": "color"
+        },
+        "promo-secondary": {
+          "value": "{core.purple-transparent.100}",
+          "type": "color"
+        },
         "disabled": {
           "value": "{core.neutral-transparent.200}",
           "type": "color"
