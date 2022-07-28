@@ -423,6 +423,10 @@
             "value": "{core.neutral-transparent.50}",
             "type": "color"
           }
+        },
+        "nulled": {
+          "value": "rgba({core.white}, 0.0)",
+          "type": "color"
         }
       },
       "stroke": {
