@@ -529,7 +529,20 @@
       }
     }
   },
-  "static-section": {},
+  "static-section": {
+    "static": {
+      "content": {
+        "key-on-light": {
+          "value": "{core.black}",
+          "type": "color"
+        },
+        "key-on-dark": {
+          "value": "{core.white}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "dark-section": {},
   "$themes": [
     {
