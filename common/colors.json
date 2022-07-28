@@ -516,9 +516,16 @@
           "value": "{core.purple-transparent.200}",
           "type": "color"
         }
+      },
+      "stroke-active": {
+        "neutral-secondary": {
+          "value": "{core.neutral-transparent.500}",
+          "type": "color"
+        }
       }
     }
   },
+  "static-section": {},
   "dark-section": {},
   "$themes": [
     {
@@ -527,7 +534,8 @@
       "selectedTokenSets": {
         "core-section": "enabled",
         "light-section": "enabled",
-        "dark-section": "enabled"
+        "dark-section": "enabled",
+        "static-section": "disabled"
       },
       "$figmaStyleReferences": {}
     },
@@ -537,7 +545,8 @@
       "selectedTokenSets": {
         "core-section": "enabled",
         "light-section": "disabled",
-        "dark-section": "disabled"
+        "dark-section": "disabled",
+        "static-section": "disabled"
       },
       "$figmaStyleReferences": {}
     },
@@ -547,7 +556,8 @@
       "selectedTokenSets": {
         "core-section": "enabled",
         "light-section": "disabled",
-        "dark-section": "disabled"
+        "dark-section": "disabled",
+        "static-section": "disabled"
       },
       "$figmaStyleReferences": {}
     }
