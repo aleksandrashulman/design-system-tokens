@@ -464,6 +464,18 @@
         }
       },
       "bg-active": {
+        "neutral-primary": {
+          "value": "{core.neutral.800}",
+          "type": "color"
+        },
+        "neutral-secondary": {
+          "value": "{core.neutral-transparent.200}",
+          "type": "color"
+        },
+        "neutral-secondary-hard": {
+          "value": "{core.neutral-transparent.500}",
+          "type": "color"
+        },
         "action-primary": {
           "value": "{core.green.700}",
           "type": "color"
@@ -480,16 +492,28 @@
           "value": "{core.red-transparent.200}",
           "type": "color"
         },
-        "neutral-primary": {
-          "value": "{core.neutral.800}",
+        "positive-primary": {
+          "value": "{core.green.700}",
           "type": "color"
         },
-        "neutral-secondary-hard": {
-          "value": "{core.neutral-transparent.500}",
+        "positive-secondary": {
+          "value": "{core.green-transparent.200}",
           "type": "color"
         },
-        "neutral-secondary": {
-          "value": "{core.neutral-transparent.200}",
+        "promo-primary": {
+          "value": "{core.purple.700}",
+          "type": "color"
+        },
+        "promo-secondary": {
+          "value": "{core.purple-transparent.200}",
+          "type": "color"
+        },
+        "warning-primary": {
+          "value": "{core.yellow.900}",
+          "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow-transparent.200}",
           "type": "color"
         }
       }
