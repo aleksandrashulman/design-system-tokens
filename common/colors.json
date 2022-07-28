@@ -334,20 +334,20 @@
           "value": "{core.red.500}",
           "type": "color"
         },
-        "positive-primary": {
-          "value": "{core.green.700}",
-          "type": "color"
-        },
-        "positive-secondary": {
-          "value": "{core.green.500}",
-          "type": "color"
-        },
         "warning-primary": {
           "value": "{core.yellow.700}",
           "type": "color"
         },
         "warning-secondary": {
           "value": "{core.yellow.500}",
+          "type": "color"
+        },
+        "positive-primary": {
+          "value": "{core.green.700}",
+          "type": "color"
+        },
+        "positive-secondary": {
+          "value": "{core.green.500}",
           "type": "color"
         },
         "promo-primary": {
@@ -388,20 +388,20 @@
           "value": "{core.red-transparent.100}",
           "type": "color"
         },
-        "positive-primary": {
-          "value": "{core.green.500}",
-          "type": "color"
-        },
-        "positive-secondary": {
-          "value": "{core.green-transparent.100}",
-          "type": "color"
-        },
         "warning-primary": {
           "value": "{core.yellow.700}",
           "type": "color"
         },
         "warning-secondary": {
           "value": "{core.yellow-transparent.100}",
+          "type": "color"
+        },
+        "positive-primary": {
+          "value": "{core.green.500}",
+          "type": "color"
+        },
+        "positive-secondary": {
+          "value": "{core.green-transparent.100}",
           "type": "color"
         },
         "promo-primary": {
@@ -492,6 +492,14 @@
           "value": "{core.red-transparent.200}",
           "type": "color"
         },
+        "warning-primary": {
+          "value": "{core.yellow.900}",
+          "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow-transparent.200}",
+          "type": "color"
+        },
         "positive-primary": {
           "value": "{core.green.700}",
           "type": "color"
@@ -506,14 +514,6 @@
         },
         "promo-secondary": {
           "value": "{core.purple-transparent.200}",
-          "type": "color"
-        },
-        "warning-primary": {
-          "value": "{core.yellow.900}",
-          "type": "color"
-        },
-        "warning-secondary": {
-          "value": "{core.yellow-transparent.200}",
           "type": "color"
         }
       }
