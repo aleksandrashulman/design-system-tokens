@@ -846,6 +846,30 @@
         "separator": {
           "value": "{core.white-transparent.200}",
           "type": "color"
+        },
+        "action-primary": {
+          "value": "{core.green.475}",
+          "type": "color"
+        },
+        "action-secondary": {
+          "value": "{core.green-transparent.300}",
+          "type": "color"
+        },
+        "danger-primary": {
+          "value": "{core.red.475}",
+          "type": "color"
+        },
+        "danger-secondary": {
+          "value": "{core.red-transparent.300}",
+          "type": "color"
+        },
+        "positive-primary": {
+          "value": "{core.green.475}",
+          "type": "color"
+        },
+        "positive-secondary": {
+          "value": "{core.green-transparent.300}",
+          "type": "color"
         }
       },
       "stroke-active": {
