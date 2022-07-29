@@ -690,6 +690,10 @@
           "value": "{core.neutral.50}",
           "type": "color"
         },
+        "secondary": {
+          "value": "{core.white-transparent.800}",
+          "type": "color"
+        },
         "primary-inverted": {
           "value": "{core.neutral.1000}",
           "type": "color"
