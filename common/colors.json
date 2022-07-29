@@ -639,8 +639,16 @@
           "value": "{core.green.475}",
           "type": "color"
         },
+        "action-secondary": {
+          "value": "{core.green-transparent.100}",
+          "type": "color"
+        },
         "danger-primary": {
           "value": "{core.red.475}",
+          "type": "color"
+        },
+        "danger-secondary": {
+          "value": "{core.red-transparent.100}",
           "type": "color"
         }
       },
