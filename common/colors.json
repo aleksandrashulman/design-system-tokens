@@ -726,8 +726,16 @@
           "value": "{core.green.300}",
           "type": "color"
         },
+        "action-secondary": {
+          "value": "{core.green-transparent.200}",
+          "type": "color"
+        },
         "positive-primary": {
           "value": "{core.green.300}",
+          "type": "color"
+        },
+        "positive-secondary": {
+          "value": "{core.green-transparent.200}",
           "type": "color"
         }
       }
