@@ -643,6 +643,16 @@
           "value": "{core.red.475}",
           "type": "color"
         }
+      },
+      "content": {
+        "primary": {
+          "value": "{core.neutral.50}",
+          "type": "color"
+        },
+        "primary-inverted": {
+          "value": "{core.neutral.1000}",
+          "type": "color"
+        }
       }
     }
   },
