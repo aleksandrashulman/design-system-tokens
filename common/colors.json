@@ -633,6 +633,12 @@
           "value": "{core.white-transparent.50}",
           "type": "color"
         }
+      },
+      "bg": {
+        "action-primary": {
+          "value": "{core.green.475}",
+          "type": "color"
+        }
       }
     }
   },
