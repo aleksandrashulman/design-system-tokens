@@ -648,6 +648,10 @@
         }
       },
       "bg": {
+        "neutral-primary": {
+          "value": "{core.neutral.50}",
+          "type": "color"
+        },
         "action-primary": {
           "value": "{core.green.475}",
           "type": "color"
