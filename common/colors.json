@@ -270,6 +270,24 @@
           "value": " rgba(255, 191, 0, 0.64)",
           "type": "color"
         }
+      },
+      "shark": {
+        "850": {
+          "value": "rgba(53, 54, 61, 1.0)",
+          "type": "color"
+        },
+        "900": {
+          "value": "rgba(44, 45, 53, 1.0)",
+          "type": "color"
+        },
+        "950": {
+          "value": "rgba(35, 36, 44, 1.0)",
+          "type": "color"
+        },
+        "1000": {
+          "value": "rgba(26, 27, 35, 1.0)",
+          "type": "color"
+        }
       }
     }
   },
