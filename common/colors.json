@@ -266,6 +266,10 @@
         }
       },
       "yellow-transparent": {
+        "50": {
+          "value": " rgba(255, 204, 0, 0.12)",
+          "type": "color"
+        },
         "100": {
           "value": " rgba(255, 204, 0, 0.2)",
           "type": "color"
