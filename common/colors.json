@@ -602,7 +602,7 @@
     }
   },
   "static-section": {
-    "dark": {
+    "static": {
       "content": {
         "key-on-light": {
           "value": "{core.black}",
