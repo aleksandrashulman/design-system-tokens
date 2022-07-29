@@ -727,6 +727,16 @@
         "nulled": {
           "value": "rgba({core.white}, 0.0)",
           "type": "color"
+        },
+        "bg": {
+          "zebra": {
+            "value": "{core.white-transparent.50}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{core.white-transparent.200}",
+            "type": "color"
+          }
         }
       },
       "bg-active": {
