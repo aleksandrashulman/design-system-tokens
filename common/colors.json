@@ -700,6 +700,12 @@
           "value": "rgba({core.white}, 0.0)",
           "type": "color"
         }
+      },
+      "bg-active": {
+        "action-primary": {
+          "value": "{core.green.300}",
+          "type": "color"
+        }
       }
     }
   },
