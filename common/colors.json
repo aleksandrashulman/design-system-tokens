@@ -680,6 +680,14 @@
           "value": "{core.red-transparent.100}",
           "type": "color"
         },
+        "warning-primary": {
+          "value": "{core.yellow.700}",
+          "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow-transparent.50}",
+          "type": "color"
+        },
         "positive-primary": {
           "value": "{core.green.475}",
           "type": "color"
@@ -748,6 +756,10 @@
         },
         "positive-secondary": {
           "value": "{core.green-transparent.200}",
+          "type": "color"
+        },
+        "warning-primary": {
+          "value": "{core.yellow.500}",
           "type": "color"
         }
       }
