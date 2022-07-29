@@ -164,6 +164,10 @@
           "value": " rgba(249, 134, 143, 1.0)",
           "type": "color"
         },
+        "475": {
+          "value": "rgba(219, 87, 98, 1.0)",
+          "type": "color"
+        },
         "500": {
           "value": "rgba(235, 71, 85, 1.0)",
           "type": "color"
