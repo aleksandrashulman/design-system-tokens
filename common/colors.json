@@ -833,6 +833,26 @@
           "value": "{core.purple-transparent.200}",
           "type": "color"
         }
+      },
+      "stroke": {
+        "neutral-primary": {
+          "value": "{core.white-transparent.600}",
+          "type": "color"
+        },
+        "neutral-secondary": {
+          "value": "{core.white-transparent.400}",
+          "type": "color"
+        },
+        "separator": {
+          "value": "{core.white-transparent.200}",
+          "type": "color"
+        }
+      },
+      "stroke-active": {
+        "neutral-secondary": {
+          "value": "{core.white-transparent.500}",
+          "type": "color"
+        }
       }
     }
   },
