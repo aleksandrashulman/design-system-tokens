@@ -650,6 +650,14 @@
         "danger-secondary": {
           "value": "{core.red-transparent.100}",
           "type": "color"
+        },
+        "positive-primary": {
+          "value": "{core.green.475}",
+          "type": "color"
+        },
+        "positive-secondary": {
+          "value": "{core.green-transparent.100}",
+          "type": "color"
         }
       },
       "content": {
