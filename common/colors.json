@@ -318,6 +318,10 @@
           "value": "{core.neutral-transparent.600}",
           "type": "color"
         },
+        "primary-inverted": {
+          "value": "{core.neutral.50}",
+          "type": "color"
+        },
         "action-primary": {
           "value": "{core.green.700}",
           "type": "color"
