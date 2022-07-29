@@ -730,6 +730,14 @@
           "value": "{core.green-transparent.200}",
           "type": "color"
         },
+        "danger-primary": {
+          "value": "{core.red.300}",
+          "type": "color"
+        },
+        "danger-secondary": {
+          "value": "{core.red-transparent.200}",
+          "type": "color"
+        },
         "positive-primary": {
           "value": "{core.green.300}",
           "type": "color"
