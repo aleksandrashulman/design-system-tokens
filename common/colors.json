@@ -666,7 +666,7 @@
           "type": "color"
         },
         "action-primary": {
-          "value": "{core.green.600}",
+          "value": "{core.green.700}",
           "type": "color"
         },
         "action-secondary": {
@@ -690,7 +690,7 @@
           "type": "color"
         },
         "positive-primary": {
-          "value": "{core.green.600}",
+          "value": "{core.green.700}",
           "type": "color"
         },
         "positive-secondary": {
@@ -754,7 +754,7 @@
           "type": "color"
         },
         "action-primary": {
-          "value": "{core.green.300}",
+          "value": "{core.green.600}",
           "type": "color"
         },
         "action-secondary": {
@@ -778,7 +778,7 @@
           "type": "color"
         },
         "positive-primary": {
-          "value": "{core.green.300}",
+          "value": "{core.green.600}",
           "type": "color"
         },
         "positive-secondary": {
