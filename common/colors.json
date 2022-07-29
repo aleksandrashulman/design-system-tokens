@@ -638,6 +638,10 @@
         "action-primary": {
           "value": "{core.green.475}",
           "type": "color"
+        },
+        "danger-primary": {
+          "value": "{core.red.475}",
+          "type": "color"
         }
       }
     }
