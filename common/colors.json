@@ -652,6 +652,14 @@
           "value": "{core.neutral.50}",
           "type": "color"
         },
+        "neutral-secondary": {
+          "value": "{core.white-transparent.100}",
+          "type": "color"
+        },
+        "neutral-secondary-hard": {
+          "value": "{core.white-transparent.400}",
+          "type": "color"
+        },
         "action-primary": {
           "value": "{core.green.475}",
           "type": "color"
