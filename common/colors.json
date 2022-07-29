@@ -754,6 +754,14 @@
         "primary-inverted": {
           "value": "{core.neutral.1000}",
           "type": "color"
+        },
+        "promo-primary": {
+          "value": "{core.purple.300}",
+          "type": "color"
+        },
+        "promo-secondary": {
+          "value": "{core.purple.500}",
+          "type": "color"
         }
       },
       "special": {
