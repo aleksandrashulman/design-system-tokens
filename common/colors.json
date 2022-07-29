@@ -761,6 +761,10 @@
         "warning-primary": {
           "value": "{core.yellow.500}",
           "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow-transparent.100}",
+          "type": "color"
         }
       }
     }
