@@ -120,14 +120,14 @@
           "value": "rgba(90, 225, 160, 1.0)",
           "type": "color"
         },
+        "475": {
+          "value": "rgba(71, 190, 133, 1.0)",
+          "type": "color",
+          "description": "1D965C"
+        },
         "500": {
           "value": "rgba(50, 187, 120, 1.0)",
           "type": "color"
-        },
-        "600": {
-          "value": "rgba(32, 167, 102, 1.0)",
-          "type": "color",
-          "description": "1D965C"
         },
         "700": {
           "value": "rgba(27, 142, 87, 1.0)",
@@ -666,7 +666,7 @@
           "type": "color"
         },
         "action-primary": {
-          "value": "{core.green.700}",
+          "value": "{core.green.475}",
           "type": "color"
         },
         "action-secondary": {
@@ -690,7 +690,7 @@
           "type": "color"
         },
         "positive-primary": {
-          "value": "{core.green.700}",
+          "value": "{core.green.475}",
           "type": "color"
         },
         "positive-secondary": {
@@ -754,7 +754,7 @@
           "type": "color"
         },
         "action-primary": {
-          "value": "{core.green.600}",
+          "value": "{core.green.300}",
           "type": "color"
         },
         "action-secondary": {
@@ -778,7 +778,7 @@
           "type": "color"
         },
         "positive-primary": {
-          "value": "{core.green.600}",
+          "value": "{core.green.300}",
           "type": "color"
         },
         "positive-secondary": {
