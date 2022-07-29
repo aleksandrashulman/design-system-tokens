@@ -653,6 +653,12 @@
           "value": "{core.neutral.1000}",
           "type": "color"
         }
+      },
+      "special": {
+        "nulled": {
+          "value": "rgba({core.white}, 0.0)",
+          "type": "color"
+        }
       }
     }
   },
