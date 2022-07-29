@@ -552,7 +552,32 @@
     }
   },
   "static-section": {},
-  "dark-section": {},
+  "dark-section": {
+    "dark": {
+      "layer": {
+        "floor-0-default": {
+          "value": "{core.shark.1000}",
+          "type": "color"
+        },
+        "floor-0-grouped": {
+          "value": "{core.shark.1000}",
+          "type": "color"
+        },
+        "floor-1": {
+          "value": "{core.shark.950}",
+          "type": "color"
+        },
+        "floor-2": {
+          "value": "{core.shark.900}",
+          "type": "color"
+        },
+        "floor-3": {
+          "value": "{core.shark.850}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "$themes": [
     {
       "id": "1ed30afe0d452f54497f163b1bfff87448e1a8c9",
