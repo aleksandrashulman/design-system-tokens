@@ -710,7 +710,23 @@
         }
       },
       "bg-active": {
+        "neutral-primary": {
+          "value": "{core.neutral.300}",
+          "type": "color"
+        },
+        "neutral-secondary": {
+          "value": "{core.white-transparent.200}",
+          "type": "color"
+        },
+        "neutral-secondary-hard": {
+          "value": "{core.white-transparent.500}",
+          "type": "color"
+        },
         "action-primary": {
+          "value": "{core.green.300}",
+          "type": "color"
+        },
+        "positive-primary": {
           "value": "{core.green.300}",
           "type": "color"
         }
