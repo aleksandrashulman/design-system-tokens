@@ -719,6 +719,14 @@
           "value": "{core.white-transparent.600}",
           "type": "color"
         },
+        "action-primary": {
+          "value": "{core.green.300}",
+          "type": "color"
+        },
+        "action-secondary": {
+          "value": "{core.green.475}",
+          "type": "color"
+        },
         "primary-inverted": {
           "value": "{core.neutral.1000}",
           "type": "color"
