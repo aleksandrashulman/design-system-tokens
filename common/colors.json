@@ -727,6 +727,30 @@
           "value": "{core.green.475}",
           "type": "color"
         },
+        "danger-primary": {
+          "value": "{core.red.300}",
+          "type": "color"
+        },
+        "danger-secondary": {
+          "value": "{core.red.475}",
+          "type": "color"
+        },
+        "warning-primary": {
+          "value": "{core.yellow.500}",
+          "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow.700}",
+          "type": "color"
+        },
+        "positive-primary": {
+          "value": "{core.green.300}",
+          "type": "color"
+        },
+        "positive-secondary": {
+          "value": "{core.green.475}",
+          "type": "color"
+        },
         "primary-inverted": {
           "value": "{core.neutral.1000}",
           "type": "color"
