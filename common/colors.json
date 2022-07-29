@@ -616,6 +616,14 @@
         "floor-3": {
           "value": "{core.shark.850}",
           "type": "color"
+        },
+        "surface": {
+          "value": "{core.white-transparent.100}",
+          "type": "color"
+        },
+        "surface-inner-shadow": {
+          "value": "{core.white-transparent.50}",
+          "type": "color"
         }
       }
     }
