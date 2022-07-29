@@ -469,7 +469,7 @@
       },
       "bg-active": {
         "neutral-primary": {
-          "value": "{core.neutral.800}",
+          "value": "{core.neutral.900}",
           "type": "color"
         },
         "neutral-secondary": {
@@ -529,20 +529,7 @@
       }
     }
   },
-  "static-section": {
-    "static": {
-      "content": {
-        "key-on-light": {
-          "value": "{core.black}",
-          "type": "color"
-        },
-        "key-on-dark": {
-          "value": "{core.white}",
-          "type": "color"
-        }
-      }
-    }
-  },
+  "static-section": {},
   "dark-section": {},
   "$themes": [
     {
