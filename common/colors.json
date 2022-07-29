@@ -129,17 +129,17 @@
           "type": "color"
         },
         "700": {
-          "value": " rgba(27, 142, 87, 1.0)",
+          "value": "rgba(27, 142, 87, 1.0)",
           "type": "color"
         },
         "900": {
-          "value": " rgba(18, 112, 66, 1.0)",
+          "value": "rgba(18, 112, 66, 1.0)",
           "type": "color"
         }
       },
       "green-transparent": {
         "100": {
-          "value": " rgba(0, 255, 130, 0.12)",
+          "value": "rgba(0, 255, 130, 0.12)",
           "type": "color"
         },
         "200": {
@@ -147,7 +147,7 @@
           "type": "color"
         },
         "300": {
-          "value": " rgba(6, 208, 109, 0.64)",
+          "value": "rgba(6, 208, 109, 0.64)",
           "type": "color"
         }
       },
@@ -161,7 +161,7 @@
           "type": "color"
         },
         "300": {
-          "value": " rgba(249, 134, 143, 1.0)",
+          "value": "rgba(249, 134, 143, 1.0)",
           "type": "color"
         },
         "475": {
@@ -183,21 +183,21 @@
       },
       "red-transparent": {
         "100": {
-          "value": " rgba(247, 59, 74, 0.12)",
+          "value": "rgba(247, 59, 74, 0.12)",
           "type": "color"
         },
         "200": {
-          "value": " rgba(247, 95, 107, 0.36)",
+          "value": "rgba(247, 95, 107, 0.36)",
           "type": "color"
         },
         "300": {
-          "value": " rgba(245, 66, 81, 0.64)",
+          "value": "rgba(245, 66, 81, 0.64)",
           "type": "color"
         }
       },
       "purple": {
         "100": {
-          "value": " rgba(235, 236, 255, 1.0)",
+          "value": "rgba(235, 236, 255, 1.0)",
           "type": "color"
         },
         "200": {
@@ -209,7 +209,7 @@
           "type": "color"
         },
         "500": {
-          "value": " rgba(91, 104, 246, 1.0)",
+          "value": "rgba(91, 104, 246, 1.0)",
           "type": "color"
         },
         "700": {
@@ -223,37 +223,37 @@
       },
       "purple-transparent": {
         "100": {
-          "value": " rgba(91, 104, 246, 0.12)",
+          "value": "rgba(91, 104, 246, 0.12)",
           "type": "color"
         },
         "200": {
-          "value": " rgba(64, 80, 252, 0.36)",
+          "value": "rgba(64, 80, 252, 0.36)",
           "type": "color"
         },
         "300": {
-          "value": " rgba(64, 80, 252, 0.64)",
+          "value": "rgba(64, 80, 252, 0.64)",
           "type": "color"
         }
       },
       "yellow": {
         "100": {
-          "value": " rgba(255, 245, 204, 1.0)",
+          "value": "rgba(255, 245, 204, 1.0)",
           "type": "color"
         },
         "200": {
-          "value": " rgba(253, 232, 163, 1.0)",
+          "value": "rgba(253, 232, 163, 1.0)",
           "type": "color"
         },
         "300": {
-          "value": " rgba(255, 215, 89, 1.0)",
+          "value": "rgba(255, 215, 89, 1.0)",
           "type": "color"
         },
         "400": {
-          "value": " rgba(255, 197, 41, 1.0)",
+          "value": "rgba(255, 197, 41, 1.0)",
           "type": "color"
         },
         "500": {
-          "value": " rgba(255, 178, 0, 1.0)",
+          "value": "rgba(255, 178, 0, 1.0)",
           "type": "color"
         },
         "700": {
@@ -261,25 +261,25 @@
           "type": "color"
         },
         "900": {
-          "value": " rgba(233, 101, 7, 1.0)",
+          "value": "rgba(233, 101, 7, 1.0)",
           "type": "color"
         }
       },
       "yellow-transparent": {
         "50": {
-          "value": " rgba(255, 204, 0, 0.12)",
+          "value": "rgba(255, 204, 0, 0.12)",
           "type": "color"
         },
         "100": {
-          "value": " rgba(255, 204, 0, 0.2)",
+          "value": "rgba(255, 204, 0, 0.2)",
           "type": "color"
         },
         "200": {
-          "value": " rgba(250, 192, 0, 0.36)",
+          "value": "rgba(250, 192, 0, 0.36)",
           "type": "color"
         },
         "300": {
-          "value": " rgba(255, 191, 0, 0.64)",
+          "value": "rgba(255, 191, 0, 0.64)",
           "type": "color"
         }
       },
