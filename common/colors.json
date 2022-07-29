@@ -695,6 +695,14 @@
         "positive-secondary": {
           "value": "{core.green-transparent.100}",
           "type": "color"
+        },
+        "promo-primary": {
+          "value": "{core.purple.500}",
+          "type": "color"
+        },
+        "promo-secondary": {
+          "value": "{core.purple-transparent.100}",
+          "type": "color"
         }
       },
       "content": {
@@ -750,6 +758,14 @@
           "value": "{core.red-transparent.200}",
           "type": "color"
         },
+        "warning-primary": {
+          "value": "{core.yellow.500}",
+          "type": "color"
+        },
+        "warning-secondary": {
+          "value": "{core.yellow-transparent.100}",
+          "type": "color"
+        },
         "positive-primary": {
           "value": "{core.green.300}",
           "type": "color"
@@ -758,12 +774,12 @@
           "value": "{core.green-transparent.200}",
           "type": "color"
         },
-        "warning-primary": {
-          "value": "{core.yellow.500}",
+        "promo-primary": {
+          "value": "{core.purple.300}",
           "type": "color"
         },
-        "warning-secondary": {
-          "value": "{core.yellow-transparent.100}",
+        "promo-secondary": {
+          "value": "{core.purple-transparent.200}",
           "type": "color"
         }
       }
