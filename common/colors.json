@@ -627,7 +627,7 @@
   "dark-section": {
     "dark": {
       "layer": {
-        "floor-0-default": {
+        "floor-0": {
           "value": "{core.shark.1000}",
           "type": "color"
         },
