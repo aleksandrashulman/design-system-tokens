@@ -349,7 +349,7 @@
   "light-section": {
     "light": {
       "layer": {
-        "floor-0-default": {
+        "floor-0": {
           "value": "{core.white}",
           "type": "color"
         },
@@ -359,6 +359,10 @@
         },
         "floor-1": {
           "value": "{core.white}",
+          "type": "color"
+        },
+        "floor-1-grouped": {
+          "value": "{core.neutral.200}",
           "type": "color"
         },
         "floor-2": {
@@ -632,6 +636,10 @@
           "type": "color"
         },
         "floor-1": {
+          "value": "{core.shark.950}",
+          "type": "color"
+        },
+        "floor-1-grouped": {
           "value": "{core.shark.950}",
           "type": "color"
         },
@@ -914,5 +922,13 @@
       },
       "$figmaStyleReferences": {}
     }
-  ]
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core-section",
+      "light-section",
+      "static-section",
+      "dark-section"
+    ]
+  }
 }
