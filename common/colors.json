@@ -554,6 +554,14 @@
         "positive-secondary": {
           "value": "{core.green.300}",
           "type": "color"
+        },
+        "promo-primary": {
+          "value": "{core.purple.500}",
+          "type": "color"
+        },
+        "promo-secondary": {
+          "value": "{core.purple.300}",
+          "type": "color"
         }
       },
       "bg-active": {
@@ -893,6 +901,14 @@
         },
         "positive-secondary": {
           "value": "{core.green-transparent.300}",
+          "type": "color"
+        },
+        "promo-primary": {
+          "value": "{core.purple.500}",
+          "type": "color"
+        },
+        "promo-secondary": {
+          "value": "{core.purple-transparent.300}",
           "type": "color"
         }
       },
