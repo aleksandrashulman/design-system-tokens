@@ -623,6 +623,48 @@
           "value": "{core.neutral-transparent.500}",
           "type": "color"
         }
+      },
+      "text": {
+        "primary": {
+          "value": "{core.neutral.1000}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{core.neutral-transparent.800}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{core.neutral-transparent.600}",
+          "type": "color"
+        },
+        "action": {
+          "value": "{core.green.700}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{core.red.700}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{core.yellow.700}",
+          "type": "color"
+        },
+        "positive": {
+          "value": "{core.green.700}",
+          "type": "color"
+        },
+        "promo": {
+          "value": "{core.purple.700}",
+          "type": "color"
+        },
+        "link": {
+          "value": "{core.green.700}",
+          "type": "color"
+        },
+        "primary-inverted": {
+          "value": "{core.neutral.50}",
+          "type": "color"
+        }
       }
     }
   },
