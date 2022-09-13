@@ -382,7 +382,7 @@
           "type": "color"
         }
       },
-      "content": {
+      "graphic": {
         "primary": {
           "value": "{core.neutral.1000}",
           "type": "color"
