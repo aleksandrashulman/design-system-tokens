@@ -439,11 +439,13 @@
         },
         "promo-primary": {
           "value": "{core.purple.700}",
-          "type": "color"
+          "type": "color",
+          "description": "For icons and other graphic elements placed together with text of color text/promo."
         },
         "promo-secondary": {
           "value": "{core.purple.500}",
-          "type": "color"
+          "type": "color",
+          "description": "For icons and other graphic elements placed NOT together with text of color text/promo."
         },
         "link-primary": {
           "value": "{core.green.700}",
