@@ -733,10 +733,6 @@
           "value": "{core.shark.950}",
           "type": "color"
         },
-        "floor-1-grouped": {
-          "value": "{core.shark.950}",
-          "type": "color"
-        },
         "floor-2": {
           "value": "{core.shark.900}",
           "type": "color"
