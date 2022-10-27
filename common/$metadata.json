@@ -1,11 +1,11 @@
 {
   "tokenSetOrder": [
     "core-section",
-    "Driver/driver-dark",
-    "Driver/driver-light",
-    "Driver/driver-static",
-    "Rider/rider-dark",
+    "Driver/light",
+    "Driver/dark",
+    "Driver/static",
     "Rider/rider-light",
+    "Rider/rider-dark",
     "Rider/rider-static"
   ]
 }
