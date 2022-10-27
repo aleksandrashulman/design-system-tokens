@@ -38,11 +38,11 @@
     },
     "graphic": {
       "primary": {
-        "value": "#2A313C",
+        "value": "{core.neutral.1000}",
         "type": "color"
       },
       "secondary": {
-        "value": "#7F8C9F",
+        "value": "{core.neutral-transparent.800}",
         "type": "color"
       },
       "tertiary": {
@@ -129,7 +129,7 @@
         "description": "For bgs of small elements when neutral-secondary is not contrasting enough."
       },
       "action-primary": {
-        "value": "{core.purple.500}",
+        "value": "{core.green.500}",
         "type": "color",
         "description": "Attn! If tomorrow Bolt's brand color became pink, should your element still be green? If the answer is YES, use POSITIVE color instead."
       },
@@ -310,11 +310,11 @@
     },
     "text": {
       "primary": {
-        "value": "#2A313C",
+        "value": "{core.neutral.1000}",
         "type": "color"
       },
       "secondary": {
-        "value": "#7F8C9F",
+        "value": "{core.neutral-transparent.800}",
         "type": "color"
       },
       "tertiary": {
