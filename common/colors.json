@@ -355,7 +355,7 @@
           "description": "The base color for the whole screen (or page). Use it in case you want the content to be placed directly on this layer."
         },
         "floor-0-grouped": {
-          "value": "{core.neutral.200}",
+          "value": "{core.neutral.100}",
           "type": "color",
           "description": "The base color for the whole screen (or page). Use it in case you want to place containers with content on top of this layer."
         },
@@ -538,7 +538,7 @@
           "type": "color"
         }
       },
-      "stroke": {
+      "border": {
         "neutral-primary": {
           "value": "{core.neutral-transparent.600}",
           "type": "color"
@@ -642,9 +642,17 @@
           "type": "color"
         }
       },
-      "stroke-active": {
+      "border-active": {
         "neutral-secondary": {
           "value": "{core.neutral-transparent.500}",
+          "type": "color"
+        },
+        "action-primary": {
+          "value": "{core.green.700}",
+          "type": "color"
+        },
+        "danger-primary": {
+          "value": "{core.red.700}",
           "type": "color"
         }
       },
@@ -697,22 +705,38 @@
   "static-section": {
     "static": {
       "graphic": {
-        "key-on-light": {
+        "key-dark": {
           "value": "{core.black}",
           "type": "color"
         },
-        "key-on-dark": {
+        "primary-dark": {
+          "value": "{core.neutral.1000}",
+          "type": "color"
+        },
+        "key-light": {
           "value": "{core.white}",
+          "type": "color"
+        },
+        "primary-light": {
+          "value": "{core.neutral.50}",
           "type": "color"
         }
       },
       "text": {
-        "key-on-light": {
+        "key-dark": {
           "value": "{core.black}",
           "type": "color"
         },
-        "key-on-dark": {
+        "primary-dark": {
+          "value": "{core.neutral.1000}",
+          "type": "color"
+        },
+        "key-light": {
           "value": "{core.white}",
+          "type": "color"
+        },
+        "primary-light": {
+          "value": "{core.neutral.50}",
           "type": "color"
         }
       }
@@ -721,7 +745,7 @@
   "dark-section": {
     "dark": {
       "layer": {
-        "floor-0-default": {
+        "floor-0": {
           "value": "{core.shark.1000}",
           "type": "color"
         },
@@ -756,7 +780,7 @@
           "type": "color"
         },
         "neutral-secondary": {
-          "value": "{core.white-transparent.100}",
+          "value": "{core.white-transparent.200}",
           "type": "color"
         },
         "neutral-secondary-hard": {
@@ -892,7 +916,7 @@
           "type": "color"
         },
         "neutral-secondary": {
-          "value": "{core.white-transparent.200}",
+          "value": "{core.white-transparent.300}",
           "type": "color"
         },
         "neutral-secondary-hard": {
@@ -940,7 +964,21 @@
           "type": "color"
         }
       },
-      "stroke": {
+      "border-active": {
+        "neutral-secondary": {
+          "value": "{core.white-transparent.500}",
+          "type": "color"
+        },
+        "action-primary": {
+          "value": "{core.green.300}",
+          "type": "color"
+        },
+        "danger-primary": {
+          "value": "{core.red.300}",
+          "type": "color"
+        }
+      },
+      "border": {
         "neutral-primary": {
           "value": "{core.white-transparent.600}",
           "type": "color"
@@ -983,12 +1021,6 @@
         },
         "promo-secondary": {
           "value": "{core.purple-transparent.300}",
-          "type": "color"
-        }
-      },
-      "stroke-active": {
-        "neutral-secondary": {
-          "value": "{core.white-transparent.500}",
           "type": "color"
         }
       },
