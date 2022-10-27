@@ -90,7 +90,7 @@
         "type": "color"
       },
       "secondary": {
-        "value": "{core.white-transparent.800}",
+        "value": "#A5B0C0",
         "type": "color"
       },
       "tertiary": {
@@ -286,7 +286,7 @@
         "type": "color"
       },
       "secondary": {
-        "value": "{core.white-transparent.800}",
+        "value": "#A5B0C0",
         "type": "color"
       },
       "tertiary": {
