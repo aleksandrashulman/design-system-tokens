@@ -1,34 +1,12 @@
 [
   {
-    "id": "1ed30afe0d452f54497f163b1bfff87448e1a8c9",
-    "name": "F",
+    "id": "fd9e6851cbb91ab58dc1cfb930a4a60688bfed6a",
+    "name": "Driver",
     "selectedTokenSets": {
       "core-section": "enabled",
       "driver-light": "enabled",
-      "driver-static": "disabled",
+      "driver-static": "enabled",
       "driver-dark": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "687d9ba97158518c8d42acce3c8c1b99726438c3",
-    "name": "D",
-    "selectedTokenSets": {
-      "core-section": "enabled",
-      "driver-light": "disabled",
-      "driver-static": "disabled",
-      "driver-dark": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "9a412124287be213ef29d20cb57563f0d37c6d22",
-    "name": "K",
-    "selectedTokenSets": {
-      "core-section": "enabled",
-      "driver-light": "disabled",
-      "driver-static": "disabled",
-      "driver-dark": "disabled"
     },
     "$figmaStyleReferences": {}
   }
