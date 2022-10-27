@@ -3,6 +3,9 @@
     "core-section",
     "driver-light",
     "driver-static",
-    "driver-dark"
+    "driver-dark",
+    "rider-light",
+    "rider-static",
+    "rider-dark"
   ]
 }

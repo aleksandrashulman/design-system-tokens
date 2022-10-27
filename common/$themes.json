@@ -6,7 +6,24 @@
       "core-section": "enabled",
       "driver-light": "enabled",
       "driver-static": "enabled",
-      "driver-dark": "enabled"
+      "driver-dark": "enabled",
+      "rider-light": "disabled",
+      "rider-static": "disabled",
+      "rider-dark": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "427c79ee095dbc9d0084f7859d627a4c047808fb",
+    "name": "Rider",
+    "selectedTokenSets": {
+      "core-section": "enabled",
+      "driver-light": "disabled",
+      "driver-static": "disabled",
+      "driver-dark": "disabled",
+      "rider-light": "enabled",
+      "rider-static": "enabled",
+      "rider-dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }
