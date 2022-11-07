@@ -4,8 +4,8 @@
     "Driver/light",
     "Driver/dark",
     "Driver/static",
-    "Rider/rider-light",
-    "Rider/rider-dark",
-    "Rider/rider-static"
+    "Rider/light",
+    "Rider/dark",
+    "Rider/static"
   ]
 }
