@@ -36,7 +36,7 @@
         "type": "color"
       }
     },
-    "graphic": {
+    "content": {
       "primary": {
         "value": "{core.neutral.1000}",
         "type": "color"
@@ -305,50 +305,6 @@
       },
       "danger-primary": {
         "value": "{core.red.700}",
-        "type": "color"
-      }
-    },
-    "text": {
-      "primary": {
-        "value": "{core.neutral.1000}",
-        "type": "color"
-      },
-      "secondary": {
-        "value": "{core.neutral-transparent.800}",
-        "type": "color"
-      },
-      "tertiary": {
-        "value": "{core.neutral-transparent.600}",
-        "type": "color"
-      },
-      "action": {
-        "value": "{core.green.700}",
-        "type": "color",
-        "description": "Attn! If tomorrow Bolt's brand color became pink, should your element still be green? If the answer is YES, use POSITIVE color instead. Is your element a link? If YES, use LINK color instead."
-      },
-      "danger": {
-        "value": "{core.red.700}",
-        "type": "color"
-      },
-      "warning": {
-        "value": "{core.yellow.700}",
-        "type": "color"
-      },
-      "positive": {
-        "value": "{core.green.700}",
-        "type": "color",
-        "description": "Attn! If tomorrow Bolt's brand color became pink, should your element still be green? If the answer is NO, use ACTION color instead."
-      },
-      "promo": {
-        "value": "{core.purple.700}",
-        "type": "color"
-      },
-      "link": {
-        "value": "{core.green.700}",
-        "type": "color"
-      },
-      "primary-inverted": {
-        "value": "{core.neutral.50}",
         "type": "color"
       }
     }
