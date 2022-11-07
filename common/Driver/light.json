@@ -46,7 +46,7 @@
         "type": "color"
       },
       "tertiary": {
-        "value": "{core.neutral-transparent.600}",
+        "value": "#CCD2DB",
         "type": "color"
       },
       "action-primary": {
