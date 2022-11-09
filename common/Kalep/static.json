@@ -1,0 +1,22 @@
+{
+  "static": {
+    "content": {
+      "key-dark": {
+        "value": "{core.black}",
+        "type": "color"
+      },
+      "primary-dark": {
+        "value": "{core.neutral.1000}",
+        "type": "color"
+      },
+      "key-light": {
+        "value": "{core.white}",
+        "type": "color"
+      },
+      "primary-light": {
+        "value": "{core.neutral.50}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -6,6 +6,9 @@
     "Driver/static",
     "Rider/light",
     "Rider/dark",
-    "Rider/static"
+    "Rider/static",
+    "Kalep/light",
+    "Kalep/dark",
+    "Kalep/static"
   ]
 }
