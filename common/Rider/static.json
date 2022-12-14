@@ -17,6 +17,12 @@
         "value": "{core.neutral.50}",
         "type": "color"
       }
+    },
+    "bg": {
+      "neutral-primary-dark": {
+        "value": "{core.neutral.1000}",
+        "type": "color"
+      }
     }
   }
 }
