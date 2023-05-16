@@ -1,0 +1,181 @@
+{
+    "Primary": {
+        "enabled": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg/action-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "pressed": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg-active/action-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "loading": {
+            "leading-icon-color": "content/action-secondary",
+            "trailing-icon-color": "content/action-secondary",
+            "action-text-color": "content/action-secondary",
+            "meta-text-color": "content/action-secondary",
+            "bg-color": "bg-active/action-secondary",
+
+            "spinner-color": "content/action-secondary"
+
+        },
+        "disabled": {
+            "leading-icon-color": "content/tertiary",
+            "trailing-icon-color": "content/tertiary",
+            "action-text-color": "content/tertiary",
+            "meta-text-color": "content/tertiary",
+            "bg-color": "bg/neutral-secondary",
+
+            "spinner-color": "content/key-light"
+        }
+    },
+
+    "Secondary": {
+
+    },
+
+    "Tertiary": {
+
+    },
+
+    "Positive Primary": {
+         "enabled": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg/positive-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "pressed": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg-active/positive-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "loading": {
+            "leading-icon-color": "content/positive-secondary",
+            "trailing-icon-color": "content/positive-secondary",
+            "action-text-color": "content/positive-secondary",
+            "meta-text-color": "content/positive-secondary",
+            "bg-color": "bg-active/positive-secondary",
+
+            "spinner-color": "content/positive-secondary"
+
+        },
+        "disabled": {
+            "leading-icon-color": "content/tertiary",
+            "trailing-icon-color": "content/tertiary",
+            "action-text-color": "content/tertiary",
+            "meta-text-color": "content/tertiary",
+            "bg-color": "bg/neutral-secondary",
+
+            "spinner-color": "content/key-light"
+        }
+    },
+
+    "Danger Primary": {
+        "enabled": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg/danger-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "pressed": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg-active/danger-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "loading": {
+            "leading-icon-color": "content/danger-secondary",
+            "trailing-icon-color": "content/danger-secondary",
+            "action-text-color": "content/danger-secondary",
+            "meta-text-color": "content/danger-secondary",
+            "bg-color": "bg-active/danger-secondary",
+
+            "spinner-color": "content/danger-secondary"
+
+        },
+        "disabled": {
+            "leading-icon-color": "content/tertiary",
+            "trailing-icon-color": "content/tertiary",
+            "action-text-color": "content/tertiary",
+            "meta-text-color": "content/tertiary",
+            "bg-color": "bg/neutral-secondary",
+
+            "spinner-color": "content/key-light"
+        }
+    },
+
+    "Warning Primary": {
+        "enabled": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg/warning-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "pressed": {
+            "leading-icon-color": "content/key-light",
+            "trailing-icon-color": "content/key-light",
+            "action-text-color": "content/key-light",
+            "meta-text-color": "content/key-light",
+            "bg-color": "bg-active/warning-primary",
+
+            "spinner-color": "content/key-light"
+        },
+        "loading": {
+            "leading-icon-color": "content/warning-secondary",
+            "trailing-icon-color": "content/warning-secondary",
+            "action-text-color": "content/warning-secondary",
+            "meta-text-color": "content/warning-secondary",
+            "bg-color": "bg-active/warning-secondary",
+
+            "spinner-color": "content/warning-secondary"
+
+        },
+        "disabled": {
+            "leading-icon-color": "content/tertiary",
+            "trailing-icon-color": "content/tertiary",
+            "action-text-color": "content/tertiary",
+            "meta-text-color": "content/tertiary",
+            "bg-color": "bg/neutral-secondary",
+
+            "spinner-color": "content/key-light"
+        }
+    },
+
+    "Floating": {
+
+    },
+
+    "Static Light Primary": {
+
+    },
+
+    "Neutral Primary": {
+
+    }
+}
