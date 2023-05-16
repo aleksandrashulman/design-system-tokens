@@ -39,14 +39,6 @@
         }
     },
 
-    "Secondary": {
-
-    },
-
-    "Tertiary": {
-
-    },
-
     "Positive Primary": {
          "enabled": {
             "leading-icon-color": "content/key-light",
@@ -169,13 +161,6 @@
 
     "Floating": {
 
-    },
-
-    "Static Light Primary": {
-
-    },
-
-    "Neutral Primary": {
-
     }
+    
 }
