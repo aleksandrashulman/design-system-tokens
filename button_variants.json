@@ -38,6 +38,46 @@
             "spinner-color": "content/key-light"
         }
     },
+    
+    "Secondary": {
+        "enabled": {
+            "leading-icon-color": "content/primary",
+            "trailing-icon-color": "content/primary",
+            "action-text-color": "content/primary",
+            "meta-text-color": "content/primary",
+            "bg-color": "bg/neutral-secondary",
+
+            "spinner-color": "content/action-primary"
+        },
+        "pressed": {
+            "leading-icon-color": "content/primary",
+            "trailing-icon-color": "content/primary",
+            "action-text-color": "content/primary",
+            "meta-text-color": "content/primary",
+            "bg-color": "bg-active/neutral-secondary",
+
+            "spinner-color": "content/action-primary"
+        },
+        "loading": {
+            "leading-icon-color": "content/primary",
+            "trailing-icon-color": "content/primary",
+            "action-text-color": "content/primary",
+            "meta-text-color": "content/primary",
+            "bg-color": "bg/neutral-secondary",
+
+            "spinner-color": "content/action-primary"
+
+        },
+        "disabled": {
+            "leading-icon-color": "content/tertiary",
+            "trailing-icon-color": "content/tertiary",
+            "action-text-color": "content/tertiary",
+            "meta-text-color": "content/tertiary",
+            "bg-color": "bg/neutral-secondary",
+
+            "spinner-color": "content/action-primary"
+        }
+    },
 
     "Positive Primary": {
          "enabled": {
