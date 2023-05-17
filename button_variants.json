@@ -166,7 +166,7 @@
             "action-text-color": "content/primary",
             "meta-text-color": "content/primary",
             "bg-color": "layer/floor-2",
-            "shadow-box": "shadow-md",
+            "shadow-box": "md",
             "spinner-color": "content/action-secondary"
         },
         "pressed": {
@@ -175,7 +175,7 @@
             "action-text-color": "content/primary",
             "meta-text-color": "content/primary",
             "bg-color": "layer/floor-2",
-            "shadow-box": "shadow",
+            "shadow-box": "default",
             "spinner-color": "content/action-secondary"
         },
         "loading": {
@@ -184,7 +184,7 @@
             "action-text-color": "content/tertiary",
             "meta-text-color": "content/tertiary",
             "bg-color": "layer/floor-2",
-            "shadow-box": "shadow",
+            "shadow-box": "default",
             "spinner-color": "content/action-secondary"
 
         },
@@ -194,7 +194,7 @@
             "action-text-color": "content/tertiary",
             "meta-text-color": "content/tertiary",
             "bg-color": "layer/floor-2",
-            "shadow-box": "shadow",
+            "shadow-box": "default",
             "spinner-color": "content/action-secondary"
         }
     }
